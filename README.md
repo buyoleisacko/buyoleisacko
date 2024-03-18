@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Buyole Isako Umuro, a Software Developer.
+I am Buyole Isako Umuro, a Software Engineer.
 - 🔭 I’m currently working with Kotlin, Javascript,React,Typescript and Spring boot.
 - 👯 I’m looking to collaborate on open source projects written in flutter,Kotlin or React Native.
 - 💬 Ask me about Android Development and Backend Development.
