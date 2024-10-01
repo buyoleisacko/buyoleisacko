@@ -1,7 +1,7 @@
 ### Hi there 👋
 Buyole here, a Software Engineer.
-- 🔭 I’m currently working with Kotlin, Javascript,React,Typescript and Spring boot.
-- 👯 I’m looking to collaborate on open source projects written in flutter,Kotlin or React Native.
+- 🔭 Currently working with Kotlin, Javascript,React,Typescript and Spring boot.
+- 👯 Looking to collaborate on open source projects written in flutter,Kotlin or React Native.
 - 💬 Ask me about Android Development and Backend Development.
 - 📫 How to reach me: On Twitter: Buyole_Isaaqo, Linkedin: https://www.linkedin.com/in/buyole-isako-umuro-a401021a7/
 <!--
