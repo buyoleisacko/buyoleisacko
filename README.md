@@ -1,5 +1,5 @@
 ### Hi there 👋
-Buyole here, a Software Engineer.
+Buyole here.
 - 🔭 Currently working with Kotlin, Javascript,React,Typescript and Spring boot.
 - 👯 Looking to collaborate on open source projects written in flutter,Kotlin or React Native.
 - 💬 Ask me about Android Development and Backend Development.
